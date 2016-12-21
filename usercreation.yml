@@ -1,0 +1,9 @@
+---
+- hosts:server2
+  user=root
+  gather_facts=yes
+  tasks:
+   - name:create user abhi
+     user:name=abhi state=present password={{redhat}}
+    
+    
