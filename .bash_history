@@ -452,3 +452,4 @@ ansible server2.abc.com  -a "date"
 ssh-keygen
 ssh-copy-id server2.abc.com
 reboot
+ansible-playbook tomcat.yml
