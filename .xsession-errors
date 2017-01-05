@@ -1,13 +1,11 @@
-GNOME_KEYRING_SOCKET=/tmp/keyring-04N9Gm/socket
-SSH_AUTH_SOCK=/tmp/keyring-04N9Gm/socket.ssh
-
-(polkit-gnome-authentication-agent-1:2418): GLib-GObject-WARNING **: cannot register existing type `_PolkitError'
-
-(polkit-gnome-authentication-agent-1:2418): GLib-CRITICAL **: g_once_init_leave: assertion `initialization_value != 0' failed
+GNOME_KEYRING_SOCKET=/tmp/keyring-fmycca/socket
+SSH_AUTH_SOCK=/tmp/keyring-fmycca/socket.ssh
 W: main.c: This program is not intended to be run as root (unless --system is specified).
-Failed to play sound: Not available
 
-** (gnome-user-share:2422): WARNING **: gnome-user-share cannot be started as root for security reasons.
+(polkit-gnome-authentication-agent-1:2706): GLib-GObject-WARNING **: cannot register existing type `_PolkitError'
+
+(polkit-gnome-authentication-agent-1:2706): GLib-CRITICAL **: g_once_init_leave: assertion `initialization_value != 0' failed
+Failed to play sound: Not available
 ** Message: applet now removed from the notification area
 Initializing nautilus-gdu extension
 Initializing nautilus-open-terminal extension

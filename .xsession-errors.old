@@ -1,0 +1,27 @@
+GNOME_KEYRING_SOCKET=/tmp/keyring-ANIgSb/socket
+SSH_AUTH_SOCK=/tmp/keyring-ANIgSb/socket.ssh
+
+(polkit-gnome-authentication-agent-1:2585): GLib-GObject-WARNING **: cannot register existing type `_PolkitError'
+
+(polkit-gnome-authentication-agent-1:2585): GLib-CRITICAL **: g_once_init_leave: assertion `initialization_value != 0' failed
+W: main.c: This program is not intended to be run as root (unless --system is specified).
+Failed to play sound: Not available
+** Message: applet now removed from the notification area
+Initializing nautilus-gdu extension
+Initializing nautilus-open-terminal extension
+** Message: applet now embedded in the notification area
+gnome-session: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+gnome-settings-daemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+Window manager warning: Fatal IO error 11 (Resource temporarily unavailable) on display ':0'.
+gnome-panel: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+nautilus: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+polkit-gnome-authentication-agent-1: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+gnome-volume-control-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+gpk-update-icon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+gnome-screensaver: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+nm-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+gnome-terminal: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+gnome-power-manager: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+bluetooth-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+gdu-notification-daemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+applet.py: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.

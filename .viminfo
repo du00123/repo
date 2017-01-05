@@ -22,13 +22,26 @@
 # Registers:
 
 # File marks:
-'0  1  0  /usr/share/vim/vim74/doc/help.txt
-'1  2  21  ~/hosts
-'2  7  15  /etc/sysconfig/selinux
-'3  2  15  /etc/sysconfig/hosts
-'4  2  15  /etc/sysconfig/hosts
+'0  11  38  ~/chef-repo/cookbooks/apache/recipes/default.rb
+'1  17  34  ~/tomcat.yml
+'2  15  32  ~/tomcat.yml
+'3  13  23  ~/tomcat.yml
+'4  8  7  ~/tomcat.yml
+'5  11  6  ~/tomcat.yml
+'6  1  0  /usr/share/vim/vim74/doc/help.txt
+'7  2  21  ~/hosts
+'8  7  15  /etc/sysconfig/selinux
+'9  2  15  /etc/sysconfig/hosts
 
 # Jumplist (newest first):
+-'  11  38  ~/chef-repo/cookbooks/apache/recipes/default.rb
+-'  1  0  ~/chef-repo/cookbooks/apache/recipes/default.rb
+-'  17  34  ~/tomcat.yml
+-'  15  9  ~/tomcat.yml
+-'  13  9  ~/tomcat.yml
+-'  8  7  ~/tomcat.yml
+-'  11  8  ~/tomcat.yml
+-'  1  0  ~/tomcat.yml
 -'  1  0  /usr/share/vim/vim74/doc/help.txt
 -'  2  0  /etc/hosts
 -'  2  21  ~/hosts
@@ -62,8 +75,101 @@
 -'  1  0  /etc/sysconfig/selinux
 -'  2  15  /etc/sysconfig/hosts
 -'  2  15  /etc/sysconfig/hosts
+-'  1  0  /usr/share/vim/vim74/doc/help.txt
+-'  2  0  /etc/hosts
+-'  2  21  ~/hosts
+-'  4  0  ~/hosts
+-'  7  15  /etc/sysconfig/selinux
+-'  1  0  /etc/sysconfig/selinux
+-'  2  15  /etc/sysconfig/hosts
+-'  2  15  /etc/sysconfig/hosts
+-'  7  15  /etc/sysconfig/selinux
+-'  1  0  /etc/sysconfig/selinux
+-'  2  15  /etc/sysconfig/hosts
+-'  2  15  /etc/sysconfig/hosts
+-'  1  0  /etc/hosts
+-'  2  21  ~/hosts
+-'  4  0  ~/hosts
+-'  7  15  /etc/sysconfig/selinux
+-'  1  0  /etc/sysconfig/selinux
+-'  2  15  /etc/sysconfig/hosts
+-'  2  15  /etc/sysconfig/hosts
+-'  7  15  /etc/sysconfig/selinux
+-'  1  0  /etc/sysconfig/selinux
+-'  2  15  /etc/sysconfig/hosts
+-'  2  15  /etc/sysconfig/hosts
+-'  2  21  ~/hosts
+-'  4  0  ~/hosts
+-'  7  15  /etc/sysconfig/selinux
+-'  1  0  /etc/sysconfig/selinux
+-'  2  15  /etc/sysconfig/hosts
+-'  2  15  /etc/sysconfig/hosts
+-'  7  15  /etc/sysconfig/selinux
+-'  1  0  /etc/sysconfig/selinux
+-'  2  15  /etc/sysconfig/hosts
+-'  2  15  /etc/sysconfig/hosts
+-'  1  0  /usr/share/vim/vim74/doc/help.txt
+-'  2  0  /etc/hosts
+-'  2  21  ~/hosts
+-'  4  0  ~/hosts
+-'  7  15  /etc/sysconfig/selinux
+-'  1  0  /etc/sysconfig/selinux
+-'  2  15  /etc/sysconfig/hosts
+-'  2  15  /etc/sysconfig/hosts
+-'  7  15  /etc/sysconfig/selinux
+-'  1  0  /etc/sysconfig/selinux
+-'  2  15  /etc/sysconfig/hosts
+-'  2  15  /etc/sysconfig/hosts
+-'  1  0  /etc/hosts
+-'  2  21  ~/hosts
+-'  4  0  ~/hosts
+-'  7  15  /etc/sysconfig/selinux
+-'  1  0  /etc/sysconfig/selinux
+-'  2  15  /etc/sysconfig/hosts
+-'  2  15  /etc/sysconfig/hosts
+-'  7  15  /etc/sysconfig/selinux
+-'  1  0  /etc/sysconfig/selinux
+-'  2  15  /etc/sysconfig/hosts
+-'  2  15  /etc/sysconfig/hosts
+-'  2  21  ~/hosts
+-'  4  0  ~/hosts
 
 # History of marks within files (newest to oldest):
+
+> ~/chef-repo/cookbooks/apache/recipes/default.rb
+	"	11	38
+	^	11	39
+	.	11	39
+	+	11	39
+
+> ~/tomcat.yml
+	"	17	34
+	^	17	35
+	.	17	34
+	+	3	0
+	+	2	1
+	+	10	25
+	+	18	0
+	+	10	28
+	+	10	28
+	+	17	6
+	+	15	6
+	+	13	6
+	+	11	6
+	+	8	8
+	+	9	22
+	+	10	6
+	+	11	7
+	+	12	8
+	+	13	8
+	+	14	8
+	+	15	7
+	+	14	8
+	+	16	7
+	+	17	8
+	+	13	23
+	+	15	32
+	+	17	34
 
 > /etc/hosts
 	"	1	0
