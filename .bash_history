@@ -682,3 +682,93 @@ vi default.rb
 cd ..
 git push chef master
 git pull chef master
+cd chef-repo
+cd cookbooks
+knife cookbook create motd
+cd motd
+ls
+cd recipes
+ls
+vim default.rb
+cd ..
+cd files
+cd default
+vi motd
+more motd
+knife cookbook upload motd
+knife node run_list node1 "recipe[motd]"
+knife node run_list add node1 "recipe[motd]"
+cd ..
+ls
+cd templates
+ls
+vim default
+vi default
+cd ..
+cd motd
+cd recipes
+ls
+vi default.rb
+cd ..
+ls
+cd templates
+ls
+cd default
+vi abc.erb
+knife cookbook upload motd
+vi abc.erb
+cd ..
+ls
+cd attributes
+ls
+vi default.rb
+cd ..
+ls
+cd templates
+ls
+cd default
+vi abc.erb
+knife cookbook upload motd
+cd ..
+cd ;;
+cd ..
+knife cookbook create dir
+cd dir
+ls
+cd recipes
+ls
+vi default.rb
+knife cookbook upload dir
+knife node run_list add node1 "recipe[dir]"
+cd ..
+knife cookbook create file1
+cd file1
+ls
+cd recipes
+ls
+vi default.rb
+knife cookbook upload file1
+vi default.rb
+ls
+knife cookbook test file1
+vi default.rb
+knife cookbook test file1
+vi default.rb
+knife cookbook test file1
+ls
+vi default.rb 
+knife cookbook test file1
+knife cookbook upload file1
+cd
+git init
+git add file1
+git status
+git commit -m "new version"
+git commit -a "new version"
+git commit -a -m "new version"
+git remote add git@github.com:du00123/movieapplication.git
+git remote -v
+git push origin master
+git pull origin master
+git config --global user.name"divya"
+git config --global user.email"divyaumn01@gmail.com"
