@@ -453,3 +453,232 @@ ssh-keygen
 ssh-copy-id server2.abc.com
 reboot
 ansible-playbook tomcat.yml
+ansible server2 -m ping
+vi etc/ansible/hosts
+vi /etc/ansible/hosts
+
+ansible server2 -a 'date"
+
+ansible server2 -a "date"
+cd ..
+vi tomcat.yml
+vim tomcat.yml
+ansible playbook tomcat.yml --syntax-check
+ansible playbook tomcat.yml --syntax -check
+ansible playbook tomcat.yml --syntax-check
+ansible playbook tomcat.yml -syntax --check
+ansible playbook tomcat.yml -syntax --check -y
+ansible-playbook tomcat.yml -syntax --check 
+ansible-playbook tomcat.yml --syntax -check 
+vi tomcat.yml
+ansible-playbook tomcat.yml --syntax -check 
+vim tomcat.yml
+ansible-playbook tomcat.yml --syntax -check 
+vim tomcat.yml
+ansible-playbook tomcat.yml --syntax -check 
+ansible-playbook tomcat.yml
+vim tomcat.yml
+ansible-playbook tomcat.yml
+vim tomcat.yml
+ansible-playbook tomcat.yml
+vim tomcat.yml
+ansible-playbook tomcat.yml
+cd /var/www/html
+ls
+cd /var/www/html
+cd chef-repo
+knife cookbook create apache
+cd apache
+ls
+cd
+cd /root/chef-repo
+knife cookbook create apache
+cd apache/
+ls
+cd /apache
+cd apache/
+cd apache
+cd apache /
+cd apache/
+knife bootstrap server2 -xroot -Pdivya123 -N node1
+cd apache
+cd ..
+cd..
+cd apache
+root
+cd chef-repo
+cd cookbooks
+cd apache
+cd receipe
+ls
+cd recipes
+ls
+vim default.rb
+knife cookbook test apache
+knife cookbook upload apache
+cd ..
+cd
+git init
+git add .
+mkdir pqr
+cd pqr
+vi test1
+git add test1
+git status
+git commit -m -a "first version"
+git commit -a -m "first version"
+git config --global user.name="divya"
+git config --global user.email="divyaabhi917@gmail.com"
+git remote add git@github.com:du00123/awsproject.git
+git remote -v
+git remote add git@github.com:du00123/awsproject.git
+git branch -v
+git branch exp
+cd exp
+cd..
+cd ..
+git branch exp
+vi test2
+git branch -v
+git merge exp
+git checkout exp
+ls
+git checkout master
+ls
+git remote add git@github.com:du00123/awsproject.git
+git remote -v
+git push origin master
+cd .git
+git push origin master
+git branch
+git checkout master
+tree
+cd tree
+cd ..
+cd pqr
+ls
+vi test1
+git status
+git commit -m -a "second version"
+git commit -a -m "second version"
+git branch
+git checkout exp
+vi test1
+git commit -a -m "third version"
+git merge master
+git branch
+git checkout master
+git config --global user.name="divya"
+git config --global user.email="divyaumn01@gmail.com"
+git merge exp
+git add .
+git commit
+git merge exp
+git commit -m
+git commit -a -m "third version"
+git commit -m "third version"
+git checkout master
+git merge branch
+git merge exp
+git checkout exp
+git merge master
+vi test1
+git checkout exp
+git checkout master
+vi test1
+git clone git@github.com:du00123/awsproject.git
+ssh-keygen
+cd 
+cd /root/
+ls
+cd .ssh
+ls
+more id_rsa.pub
+cd 
+cd pqr
+git clone git@github.com:du00123/awsproject.git
+git push origin master
+cd .git
+cd 
+
+git push origin master
+git remote add git@github.com:du00123/awsproject.git
+git remote -v
+git push origin master
+clear
+exit
+cd chef-repo
+knife cookbook create apache
+cd cookbooks
+cd apache
+ls
+cd recipes
+ls
+vi default.rb
+cd ..
+cd files
+ls
+cd default
+vi index.html
+cd ..
+cd..
+knife cookbook test apache
+knife cookbook upload apache
+cd ..
+cd recipes
+vi default.rb
+cd ..
+git init
+git add -a.
+git add -A.
+git add
+git add.
+git add .
+git status
+ls
+ls -la
+git commit -m -a "first version"
+git commit  -a "first version"
+git commit -m  "first version"
+git remote add chef git@github.com:du00123/repo.git
+git remote -v
+ssh-keygen
+cd.ssh
+cd .ssh
+.ssh
+git remote -v
+git push chefmaster
+git push chef master
+ssh-keygen
+ls
+cd /root/
+cd .ssh
+ls
+more id_rsa.pub
+AAAAB3NzaC1yc2EAAAABIwAAAQEAqhnplnCOUEBceWXlaakvY9tsOvF1Xfj6XO0uEaXpH1pO
+IVKfWN05n2roxjQ9swncTHQDCiHfcZeAn6/xPo9iN3LSZgNELPTTmIzhLhjxRKzWQkEuL8c3kY+VE9FS
+yOemfNJxOm928KuVProt6cbtiLFJdcRMDsNsG2GF1g/tLTYMaxzW6ktZXQ61styO7L9Lwox5E48fXzKK
+gE7kVfoqQsMnMQGj2m5qe1s+TxDzQ5eTchqOWsf1o4WSRCymKc0uRNs4ri7nQKGJWH31nQVv9PhnaYyZ
+oEIXvqUZdI0q8QcLV38v4ldBfD2sJj5Y5RL0Wm8OjdpJGCjHbVK5gulKgw== root@server.abc.com AAAAB3NzaC1yc2EAAAABIwAAAQEAqhnplnCOUEBceWXlaakvY9tsOvF1Xfj6XO0uEaXpH1pO
+IVKfWN05n2roxjQ9swncTHQDCiHfcZeAn6/xPo9iN3LSZgNELPTTmIzhLhjxRKzWQkEuL8c3kY+VE9FS
+yOemfNJxOm928KuVProt6cbtiLFJdcRMDsNsG2GF1g/tLTYMaxzW6ktZXQ61styO7L9Lwox5E48fXzKK
+gE7kVfoqQsMnMQGj2m5qe1s+TxDzQ5eTchqOWsf1o4WSRCymKc0uRNs4ri7nQKGJWH31nQVv9PhnaYyZ
+oEIXvqUZdI0q8QcLV38v4ldBfD2sJj5Y5RL0Wm8OjdpJGCjHbVK5gulKgw== root@server.abc.com AAAAB3NzaC1yc2EAAAABIwAAAQEAqhnplnCOUEBceWXlaakvY9tsOvF1Xfj6XO0uEaXpH1pO
+IVKfWN05n2roxjQ9swncTHQDCiHfcZeAn6/xPo9iN3LSZgNELPTTmIzhLhjxRKzWQkEuL8c3kY+VE9FS
+yOemfNJxOm928KuVProt6cbtiLFJdcRMDsNsG2GF1g/tLTYMaxzW6ktZXQ61styO7L9Lwox5E48fXzKK
+gE7kVfoqQsMnMQGj2m5qe1s+TxDzQ5eTchqOWsf1o4WSRCymKc0uRNs4ri7nQKGJWH31nQVv9PhnaYyZ
+oEIXvqUZdI0q8QcLV38v4ldBfD2sJj5Y5RL0Wm8OjdpJGCjHbVK5gulKgw== root@server.abc.com
+ls
+more id_rsa.pub
+cd ..
+cd chef-repo
+git pull chef master
+git push chef master
+cd apache
+cd cookbooks
+cd apache
+cd recipes
+vi default.rb
+cd ..
+git push chef master
+git pull chef master

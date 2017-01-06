@@ -7,7 +7,11 @@
 
 # hlsearch on (H) or off (h):
 ~H
+# Last Substitute String:
+$
+
 # Command Line History (newest to oldest):
+:q!
 :wq!
 :WQ!
 
@@ -22,18 +26,21 @@
 # Registers:
 
 # File marks:
-'0  11  38  ~/chef-repo/cookbooks/apache/recipes/default.rb
-'1  17  34  ~/tomcat.yml
-'2  15  32  ~/tomcat.yml
-'3  13  23  ~/tomcat.yml
-'4  8  7  ~/tomcat.yml
-'5  11  6  ~/tomcat.yml
-'6  1  0  /usr/share/vim/vim74/doc/help.txt
-'7  2  21  ~/hosts
-'8  7  15  /etc/sysconfig/selinux
-'9  2  15  /etc/sysconfig/hosts
+'0  10  0  ~/chef-repo/cookbooks/motd/templates/default
+'1  11  2  ~/chef-repo/cookbooks/motd/recipes/default.rb
+'2  11  38  ~/chef-repo/cookbooks/apache/recipes/default.rb
+'3  17  34  ~/tomcat.yml
+'4  15  32  ~/tomcat.yml
+'5  13  23  ~/tomcat.yml
+'6  8  7  ~/tomcat.yml
+'7  11  6  ~/tomcat.yml
+'8  1  0  /usr/share/vim/vim74/doc/help.txt
+'9  2  21  ~/hosts
 
 # Jumplist (newest first):
+-'  10  0  ~/chef-repo/cookbooks/motd/templates/default
+-'  11  2  ~/chef-repo/cookbooks/motd/recipes/default.rb
+-'  1  0  ~/chef-repo/cookbooks/motd/recipes/default.rb
 -'  11  38  ~/chef-repo/cookbooks/apache/recipes/default.rb
 -'  1  0  ~/chef-repo/cookbooks/apache/recipes/default.rb
 -'  17  34  ~/tomcat.yml
@@ -129,12 +136,14 @@
 -'  2  15  /etc/sysconfig/hosts
 -'  7  15  /etc/sysconfig/selinux
 -'  1  0  /etc/sysconfig/selinux
--'  2  15  /etc/sysconfig/hosts
--'  2  15  /etc/sysconfig/hosts
--'  2  21  ~/hosts
--'  4  0  ~/hosts
 
 # History of marks within files (newest to oldest):
+
+> ~/chef-repo/cookbooks/motd/recipes/default.rb
+	"	11	2
+	^	11	3
+	.	11	2
+	+	11	2
 
 > ~/chef-repo/cookbooks/apache/recipes/default.rb
 	"	11	38
